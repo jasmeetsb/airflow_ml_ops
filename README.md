@@ -1,5 +1,5 @@
-# Airflow ML Pipelines
-## [DRAFT]
+# Airflow ML Pipelines - [DRAFT]
+
 
 Sample Airflow ML Pipelines
 
@@ -26,3 +26,7 @@ Full list - https://airflow.apache.org/docs/stable/integration.html#gcp-google-c
 - Google Sheets
 - AI Platform
 - Video Intelligence, Vision, Natural Language APIs
+
+### Additional Airflow/Cloud Composer Resources
+
+- Awesome Apache Airflow Git Repo - https://github.com/jghoman/awesome-apache-airflow
