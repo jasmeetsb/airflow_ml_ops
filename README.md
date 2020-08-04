@@ -1,4 +1,5 @@
-# [DRAFT] - Airflow ML Pipelines
+# Airflow ML Pipelines
+## [DRAFT]
 
 Sample Airflow ML Pipelines
 
