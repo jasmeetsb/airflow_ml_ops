@@ -1,4 +1,4 @@
-"""A liveness prober dag for monitoring composer.googleapis.com/environment/healthy."""
+
 import airflow
 from airflow import DAG
 from airflow.operators.bash_operator import BashOperator
@@ -56,7 +56,7 @@ t2 = BashOperator(
 
 #Authentication
 client = bigquery.Client()
-#client = bigquery.Client.from_service_account_json('/Users/jasmeetbhatia/Dropbox/Google/service_keys/jsb-demos-8fb1eb4ebaf6.json')
+#client = bigquery.Client.from_service_account_json('<Add PATH to Service Account key')
 
 
 #Retrieve data from BQ
